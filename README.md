@@ -51,7 +51,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishakhne0gi&theme=tokyonight" alt="bishakhne0gi" /></p>
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishakhne0gi&layout=compact" alt="bishakhne0gi" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishakhne0gi&layout=compact&theme=tokyonight" alt="bishakhne0gi" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishakhne0gi&label=Profile%20views&color=00ff6e&style=flat" alt="bishakhne0gi" /> </p>
 
