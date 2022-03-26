@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **bneogi102002@gmail.com**
 
+- 💻 More about me summed up in one place **https://ne0gi-portfolio.netlify.app/**
+
 ## 💬 Connect with me:
 
 <p align="left">
