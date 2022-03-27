@@ -1,9 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bishakh</h1>
 
+<h3 align="center">I am a second year CSE undergrad. I love solving problems and have a knack in developing things and learning more about technology.</h3>
+
   ![web developer](https://user-images.githubusercontent.com/50258639/160299957-8caad68a-baab-494d-8095-97acfd08da2f.png)
 
 
-<h3 align="center">I am a second year CSE undergrad. I love solving problems and have a knack in developing things and learning more about technology.</h3>
 
 ## 🙋‍♂️ About Me
 
