@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bishakh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bishakh Neogi</h1>
 
 <h3 align="center">I am a third year CSE undergrad. I love solving problems and have a knack in developing things and learning more about technology.</h3>
 
