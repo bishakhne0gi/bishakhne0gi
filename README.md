@@ -5,7 +5,7 @@
   ![web developer](https://user-images.githubusercontent.com/50258639/160299957-8caad68a-baab-494d-8095-97acfd08da2f.png)
 
 # 💫 About Me:
- 🌱 I’m pursuing **B.Tech. in Computer Science and Engineering**<br><br>👯 I’m into  **Hackathons & Leetcoding**<br><br>📫 How to reach me **bneogi102002@gmail.com**<br><br> 💻 More about me summed up in one place **https://ne0gi-portfolio.netlify.app/**
+ 🌱 I’m pursuing **B.Tech. in Computer Science and Engineering**<br><br>👯 I’m into  **Hackathons & Leetcoding**<br><br>📫 How to reach me **bneogi102002@gmail.com**<br><br> 💻 More about me summed up in one place **https://ne0gi02.netlify.app/**
 
 
 ## 🌐 Socials:
