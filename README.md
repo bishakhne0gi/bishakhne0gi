@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bishakh Neogi</h1>
 
-<h3 align="center">I am a final-year CSE undergrad. I love solving problems and have a knack for developing things and learning more about technology. I love hackathons and leetcoding.</h3>
+<h3 align="center">I am Founding Engineer at CosX. I love solving problems and have a knack for developing things and learning more about technology. I love hackathons and leetcoding.</h3>
 
   ![web developer](https://user-images.githubusercontent.com/50258639/160299957-8caad68a-baab-494d-8095-97acfd08da2f.png)
 
 # 💫 About Me:
- 🌱 I’m pursuing **B.Tech. in Computer Science and Engineering**<br><br>👯 I’m into  **Hackathons & Leetcoding**<br><br>📫 How to reach me **bneogi102002@gmail.com**<br><br> 💻 More about me summed up in one place **https://ne0gi02.netlify.app/**
+ 🌱 I’m **B.Tech. in Computer Science and Engineering grad**<br><br>👯 I’m into  **Hackathons & Leetcoding**<br><br>📫 How to reach me **bneogi102002@gmail.com**<br><br> 💻 More about me summed up in one place **https://ne0gi02.netlify.app/**
 
 
 ## 🌐 Socials:
